@@ -1,1 +1,2 @@
 add_executable(strc_ref strc_ref.cpp)
+add_executable(reference_example ref_example_1.cpp)
