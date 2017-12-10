@@ -1,0 +1,1 @@
+add_executable(fun_template fun_template_common.cpp)

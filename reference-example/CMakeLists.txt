@@ -1,0 +1,1 @@
+add_executable(strc_ref strc_ref.cpp)
